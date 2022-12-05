@@ -4,8 +4,7 @@ Python solutions of [Advent of Code 2022](https://adventofcode.com/2022) written
 
 ## Requirements
 
-The solutions were developed and tested using Python 3.10 on [PyCharm](https://www.jetbrains.com/pycharm/) and using these python modules:
-- [numpy](https://numpy.org/)
+The solutions were developed and tested using Python 3.10 on [PyCharm](https://www.jetbrains.com/pycharm/) and using default python libraries.
 
 ## Disclamer
 
