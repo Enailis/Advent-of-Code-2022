@@ -3,7 +3,7 @@
 ##############
 def readInput():
     toRet = []
-    with open('input') as f:
+    with open('inputTristan') as f:
         while True:
             line = f.readline()
             if not line:
