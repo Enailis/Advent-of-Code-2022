@@ -24,3 +24,4 @@ I completed every challenge the day they were published.
 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [part 1](./Day7/part1.py) | [part 2](./Day7/part2.py) |
 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [part 1](./Day8/part1.py) | [part 2](./Day8/part2.py) |
 | 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [part 1](./Day9/part1.py) | [part 2](./Day9/part2.py) |
+| 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [part 1](./Day10/part1.py) | [part 2](./Day10/part2.py) |
