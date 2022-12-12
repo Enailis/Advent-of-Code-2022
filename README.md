@@ -25,3 +25,4 @@ I completed every challenge the day they were published.
 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [part 1](./Day8/part1.py) | [part 2](./Day8/part2.py) |
 | 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [part 1](./Day9/part1.py) | [part 2](./Day9/part2.py) |
 | 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [part 1](./Day10/part1.py) | [part 2](./Day10/part2.py) |
+| 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [part 1](./Day11/part1.py) | [part 2](./Day11/part2.py) |
