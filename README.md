@@ -27,3 +27,4 @@ I completed every challenge the day they were published.
 | 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [part 1](./Day10/part1.py) | [part 2](./Day10/part2.py) |
 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [part 1](./Day11/part1.py) | [part 2](./Day11/part2.py) |
 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [part 1](./Day12/part1.py) | [part 2](./Day12/part2.py) |
+| 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [part 1](./Day13/part1.py) | [part 2](./Day13/part2.py) |
