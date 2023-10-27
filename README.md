@@ -28,3 +28,7 @@ I completed every challenge the day they were published.
 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [part 1](./Day11/part1.py) | [part 2](./Day11/part2.py) |
 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [part 1](./Day12/part1.py) | [part 2](./Day12/part2.py) |
 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [part 1](./Day13/part1.py) | [part 2](./Day13/part2.py) |
+| 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | [part 1](./Day14/part1.py) | [part 2](./Day14/part2.py) |
+| 15 | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [part 1](./Day15/part1.py) | [part 2](./Day15/part2.py) |
+| 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | [part 1](./Day16/part1.py) | [part 2](./Day16/part2.py) |
+| 17 | [Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [part 1](./Day17/part1.py) | [part 2](./Day17/part2.py) |
