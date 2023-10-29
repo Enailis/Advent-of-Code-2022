@@ -32,3 +32,7 @@ I completed every challenge the day they were published.
 | 15 | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [part 1](./Day15/part1.py) | [part 2](./Day15/part2.py) |
 | 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | [part 1](./Day16/part1.py) | [part 2](./Day16/part2.py) |
 | 17 | [Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [part 1](./Day17/part1.py) | [part 2](./Day17/part2.py) |
+| 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | [part 1](./Day18/part1.py) | [part 2](./Day18/part2.py) |
+| 19 | [Not Enough Minerals](https://adventofcode.com/2022/day/19) | [part 1](./Day19/part1.py) | [part 2](./Day19/part2.py) |
+| 20 | [Grove Positioning System](https://adventofcode.com/2022/day/20) | [part 1](./Day20/part1.py) | [part 2](./Day20/part2.py) |
+| 21 | [Monkey Math](https://adventofcode.com/2022/day/21) | [part 1](./Day21/part1.py) | [part 2](./Day21/part2.py) |
